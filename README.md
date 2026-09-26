@@ -1,6 +1,5 @@
 
 
-
 # 🧪 Private VLAN (PVLAN) Lab
 
 ## 🎯 Objective
